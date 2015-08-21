@@ -5,9 +5,10 @@
 have been put into this main directory to fulfill the submission requirement)
 
 * Unzip the source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
-* create "data" directory into your work directory of R and  copy the dataset "UCI_HAR_Dataset" in that directory
+* 
+* Create "data" directory into your work directory of R and  copy the dataset "UCI_HAR_Dataset" in that directory
 
 * Put run_analysis.R into your work directory
 
-* In RStudio: run run_analysis.R 
+* In RStudio: run_analysis.R 
 
